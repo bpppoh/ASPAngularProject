@@ -1,0 +1,11 @@
+/Users/ponlawatchangto/Documents/ASPAngularProject/Core/bin/Debug/net10.0/Core.deps.json
+/Users/ponlawatchangto/Documents/ASPAngularProject/Core/bin/Debug/net10.0/Core.dll
+/Users/ponlawatchangto/Documents/ASPAngularProject/Core/bin/Debug/net10.0/Core.pdb
+/Users/ponlawatchangto/Documents/ASPAngularProject/Core/obj/Debug/net10.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ponlawatchangto/Documents/ASPAngularProject/Core/obj/Debug/net10.0/Core.AssemblyInfoInputs.cache
+/Users/ponlawatchangto/Documents/ASPAngularProject/Core/obj/Debug/net10.0/Core.AssemblyInfo.cs
+/Users/ponlawatchangto/Documents/ASPAngularProject/Core/obj/Debug/net10.0/Core.csproj.CoreCompileInputs.cache
+/Users/ponlawatchangto/Documents/ASPAngularProject/Core/obj/Debug/net10.0/Core.dll
+/Users/ponlawatchangto/Documents/ASPAngularProject/Core/obj/Debug/net10.0/refint/Core.dll
+/Users/ponlawatchangto/Documents/ASPAngularProject/Core/obj/Debug/net10.0/Core.pdb
+/Users/ponlawatchangto/Documents/ASPAngularProject/Core/obj/Debug/net10.0/ref/Core.dll
