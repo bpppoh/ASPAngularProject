@@ -9,3 +9,4 @@
 /Users/ponlawatchangto/Documents/ASPAngularProject/Core/obj/Debug/net10.0/refint/Core.dll
 /Users/ponlawatchangto/Documents/ASPAngularProject/Core/obj/Debug/net10.0/Core.pdb
 /Users/ponlawatchangto/Documents/ASPAngularProject/Core/obj/Debug/net10.0/ref/Core.dll
+/Users/ponlawatchangto/Documents/ASPAngularProject/Core/obj/Debug/net10.0/Core.sourcelink.json
